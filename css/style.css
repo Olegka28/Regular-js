@@ -1,0 +1,11 @@
+.disable {
+  background-color: red;
+}
+
+.access {
+  background-color: green;
+}
+
+.common {
+  background-color: orange;
+}
